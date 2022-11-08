@@ -1,10 +1,15 @@
 ## Interface: 100000
+## Interface-Classic: 11403
+## Interface-Wrath: 30400
 ## Title: WIM - ElvUI Skin
 ## Version: @project-version@
 ## Author: fuba
 ## Original Author: Divico / Alleria EU
 ## Notes: A simple skin matching the Design of Elvui
 ## Dependencies: WIM
+
+## X-Curse-Project-ID: 299798
+## X-Wago-ID: 2jK8ZXNy
 
 # Core files
 skin.xml
