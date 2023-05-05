@@ -4,7 +4,7 @@
 ## Title: WIM - ElvUI Skin
 ## Version: @project-version@
 ## Author: fuba
-## IconTexture: Interface\AddOns\fuba_Settings\fubaLogo
+## IconTexture: Interface\AddOns\WIM_ElvUI_Skin\fubaLogo
 ## Original Author: Divico / Alleria EU
 ## Notes: A simple skin matching the Design of Elvui
 ## Dependencies: WIM
